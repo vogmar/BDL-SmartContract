@@ -185,11 +185,11 @@
 	},
 	"sources": {
 		"VotingContract.sol": {
-			"keccak256": "0x812a78fce862534c27153a4a9812fd455205ee5c177b0c718cbac0d8c637f7e7",
+			"keccak256": "0x751f4b4f5d81b636d60e85f8f0606c3a0c6719d7760120a499876ea5199c7cfb",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5243a10330254a5ffc295420faebe4479fdd358c3f8052ffc6fd98bf0e68bada",
-				"dweb:/ipfs/QmcNdTeMv8v4x8LJBtSHMMoBup3HwTaMp3i1hUDcJewDok"
+				"bzz-raw://6e8c14b1f2064aad976381ab7c833d87687d120af27402bdc3fb03a3fd8e5f4f",
+				"dweb:/ipfs/QmUt2QNJKPdQaTyUaqZSw5rd6ZftrgWcMrEYjxsgVM9Sjz"
 			]
 		}
 	},
